@@ -1,0 +1,9 @@
+build:
+  system_packages:
+    - "libssl-dev"
+    - "tesseract-ocr"
+    - "libtesseract-dev"
+    - "ffmpeg"
+  python_packages:
+    - "einops==0.6.1"
+    - "auto-gptq==0.3.0"
