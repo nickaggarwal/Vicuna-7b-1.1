@@ -21,6 +21,7 @@ To access the custom runtime window in Inferless, simply navigate to the sidebar
 
 Next, provide a suitable name for your custom runtime and proceed by uploading the falcon-7b.yaml file mentioned above. Finally, ensure you save your changes by clicking on the save button.
 
+### Import the Model in Inferless
 Log in to your inferless account, select the workspace you want the model to be imported into and click the Add Model button.
 
 Select the PyTorch as framework and choose **Repo(custom code)** as your model source and use the forked repo URL as the **Model URL**.
