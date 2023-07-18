@@ -35,8 +35,8 @@ class InferlessPythonModel:
             top_p=0.95,
             repetition_penalty=1.15
         )
-
-        print(pipe(prompt_template)[0]['generated_text'])
+        generated_text = pipe(prompt_template)[0]['generated_text']
+        return {"generated_text": generated_text}
 
     def finalize(self):
         self.tokenizer = None
