@@ -4,7 +4,7 @@ import torch
 import argparse
 from huggingface_hub import snapshot_download
 
-model_name_or_path = "lmsys/vicuna-13b-v1.1"
+model_name_or_path = "lmsys/vicuna-7b-v1.1"
 
 class InferlessPythonModel:
     def initialize(self):
