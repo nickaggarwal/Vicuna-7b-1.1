@@ -1,5 +1,5 @@
-# Vicuna13B GPTQ
-Vicuna GPTQ is a text generation model. You can use this template to import the model in Inferless.
+# Vicuna7B GPT
+Vicuna GPTQ is a text-generation model. You can use this template to import the model in Inferless.
 
 ---
 ## Prerequisites
