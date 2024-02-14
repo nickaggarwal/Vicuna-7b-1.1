@@ -7,7 +7,5 @@ build:
   python_packages:
     - "einops==0.6.1"
     - "auto-gptq==0.3.0"
-    - "fschat==0.1.2"
     - "sentencepiece"
     - "protobuf"
-    
