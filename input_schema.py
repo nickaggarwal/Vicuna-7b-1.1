@@ -1,7 +1,7 @@
 INPUT_SCHEMA = {
   "prompt": 
     {
-      "data": [
+      "example": [
         "Once upon a time"
       ],
       "shape": [
